@@ -1,2 +1,2 @@
-# membuat-selamat-hari-raya-idul-fitri
-Membuat ucapan selamat hari raya idul fitri dengan HTML, CSS dan Javascript (Particles.js)
+# membuat-selamat-hari-raya-idul-adha
+Membuat ucapan selamat hari raya idul adha dengan HTML, CSS dan Javascript (Particles.js)
